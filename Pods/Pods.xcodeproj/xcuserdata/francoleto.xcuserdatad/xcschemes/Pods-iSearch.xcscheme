@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1110"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "43AED7D30AB767C02D061CC3E438343F"
+               BlueprintIdentifier = "750DCBB5CD85BC3266EDB1823548B708"
                BuildableName = "Pods_iSearch.framework"
                BlueprintName = "Pods-iSearch"
                ReferencedContainer = "container:Pods.xcodeproj">

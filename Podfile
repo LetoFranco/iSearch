@@ -6,6 +6,7 @@ target 'iSearch' do
   use_frameworks!
 
   # Pods for iSearch
+  pod 'Alamofire'
 
   target 'iSearchTests' do
     inherit! :search_paths

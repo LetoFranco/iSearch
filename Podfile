@@ -7,6 +7,7 @@ target 'iSearch' do
 
   # Pods for iSearch
   pod 'Alamofire'
+  pod 'SVProgressHUD'
 
   target 'iSearchTests' do
     inherit! :search_paths
